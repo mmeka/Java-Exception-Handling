@@ -5,4 +5,8 @@ printStackTrace() - prints name of the exception, description and complete stack
 toString() - prints name of the exception and description
 getMessage() - prints the description of the exception only.
 
+Order of catch blocks.
+
+Reading the stack trace
+
 Questions:
