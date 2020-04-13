@@ -18,3 +18,4 @@ Reading the stack trace
 Questions:
 NoClassDefError vs ClassNotFoundException
 ExceptionInInitializerError - if anny error occurred while initializing the static variables or executing static blocks during class loading, this error would occur. ExceptionInInitializerError extends LinkageError extends Error
+IllegalArgumentException - calling a method with invalid input values
