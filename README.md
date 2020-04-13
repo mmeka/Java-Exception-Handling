@@ -16,3 +16,4 @@ Write custom exceptions
 Reading the stack trace
 
 Questions:
+NoClassDefError vs ClassNotFoundException
